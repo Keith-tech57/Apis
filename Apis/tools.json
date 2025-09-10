@@ -1,0 +1,73 @@
+ {
+  "endpoints": [
+    {
+      "category": "tools",
+      "name": "Tiny url",
+      "url": "/shortener/tinyurl?url=https://example.com",
+      "description": "Shorten long URLs."
+    },
+    {
+      "category": "tools",
+      "name": "Bitly",
+      "url": "/shortener/bitly?url=https://example.com",
+      "description": "Shorten long URLs."
+    },
+
+   {
+      "category": "tools",
+      "name": "screenshot web",
+      "url": "/tool/screenshot?url=https://apis-keith.vercel.app/",
+      "description": "fancy text with style numbers."
+    },
+   
+    {
+      "category": "tools",
+      "name": "fancy text ",
+      "url": "/fancytext?q=hello&style=3",
+      "description": "fancy text with style numbers."
+    },
+   {
+      "category": "tools",
+      "name": "random fancy text style ",
+      "url": "/fancytext/random?q=hello",
+      "description": "random fancy text style"
+    },
+   {
+      "category": "tools",
+      "name": "fancy text styles",
+      "url": "/fancytext/styles?q=hello",
+      "description": "get all fancy text styles."
+    },
+   
+    {
+      "category": "tools",
+      "name": "Translate",
+      "url": "/translate?text=La%20commande%20vcf%20est%20disponible%20en%20plugins%20,%20Il%20inclus%20le%20noms%20des%20contacts%20si%20disponible%20%3Cprefix%3Epg%20allPour%20voir%20la%20liste%20des%20plugins%20disponibles&to=zh",
+      "description": "Translate text into different languages."
+    },
+    {
+      "category": "tools",
+      "name": "Temp Mail",
+      "url": "/tempmail",
+      "description": "Generate temporary email addresses."
+    },
+    {
+      "category": "tools",
+      "name": "Ascii generate",
+      "url": "/tools/ascii?q=dragon",
+      "description": "Generate Ascii prompt description"
+    },
+    {
+      "category": "tools",
+      "name": "Get Inbox Temp Mail",
+      "url": "/get_inbox_tempmail?q=",
+      "description": "Fetch inbox for temporary email."
+    },
+    {
+      "category": "tools",
+      "name": "Temp Number",
+      "url": "/tempnumber",
+      "description": "Generate temporary phone numbers."
+    }
+  ]
+}
